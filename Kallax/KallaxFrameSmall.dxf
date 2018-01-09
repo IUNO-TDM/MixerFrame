@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-3mm Acrylic
+Cut
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-271.3669222292428
+533.9244817842349
  22
-85.63737382886738
+241.9037009118522
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-50.95117609836872
+755.3078034996494
  41
 1.644723092998955
  42
@@ -13701,13 +13701,13 @@ ByLayer
 100
 AcDbLine
  10
-484
+498
  20
 169
  11
 498
  21
-169
+165
   0
 LINE
   5
@@ -13727,9 +13727,9 @@ AcDbLine
  10
 498
  20
-169
+165
  11
-498
+494
  21
 165
   0
@@ -13749,30 +13749,6 @@ ByLayer
 100
 AcDbLine
  10
-498
- 20
-165
- 11
-494
- 21
-165
-  0
-LINE
-  5
-205
-100
-AcDbEntity
-  8
-Cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 488
  20
 165
@@ -13783,7 +13759,7 @@ AcDbLine
   0
 LINE
   5
-206
+205
 100
 AcDbEntity
   8
@@ -13807,6 +13783,30 @@ AcDbLine
   0
 LINE
   5
+206
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+488
+ 20
+158
+ 11
+488
+ 21
+165
+  0
+LINE
+  5
 207
 100
 AcDbEntity
@@ -13821,65 +13821,17 @@ ByLayer
 100
 AcDbLine
  10
-488
+494
  20
-158
- 11
-488
- 21
 165
+ 11
+494
+ 21
+158
   0
 LINE
   5
 208
-100
-AcDbEntity
-  8
-Cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-494
- 20
-165
- 11
-494
- 21
-158
-  0
-LINE
-  5
-209
-100
-AcDbEntity
-  8
-Cut
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-494
- 20
-158
- 11
-488
- 21
-158
-  0
-LINE
-  5
-20A
 100
 AcDbEntity
   8
@@ -13903,7 +13855,7 @@ AcDbLine
   0
 LINE
   5
-20B
+209
 100
 AcDbEntity
   8
@@ -13927,7 +13879,7 @@ AcDbLine
   0
 LINE
   5
-20C
+20A
 100
 AcDbEntity
   8
@@ -13951,7 +13903,7 @@ AcDbLine
   0
 ARC
   5
-20D
+20B
 100
 AcDbEntity
   8
@@ -13979,7 +13931,7 @@ AcDbArc
   0
 LINE
   5
-20E
+20C
 100
 AcDbEntity
   8
@@ -14003,7 +13955,7 @@ AcDbLine
   0
 ARC
   5
-20F
+20D
 100
 AcDbEntity
   8
@@ -14031,7 +13983,7 @@ AcDbArc
   0
 LINE
   5
-210
+20E
 100
 AcDbEntity
   8
@@ -14055,7 +14007,7 @@ AcDbLine
   0
 ARC
   5
-211
+20F
 100
 AcDbEntity
   8
@@ -14083,7 +14035,7 @@ AcDbArc
   0
 ARC
   5
-212
+210
 100
 AcDbEntity
   8
@@ -14111,7 +14063,7 @@ AcDbArc
   0
 LINE
   5
-213
+211
 100
 AcDbEntity
   8
@@ -14135,7 +14087,7 @@ AcDbLine
   0
 ARC
   5
-214
+212
 100
 AcDbEntity
   8
@@ -14163,7 +14115,7 @@ AcDbArc
   0
 LINE
   5
-215
+213
 100
 AcDbEntity
   8
@@ -14187,7 +14139,7 @@ AcDbLine
   0
 ARC
   5
-216
+214
 100
 AcDbEntity
   8
@@ -14215,7 +14167,7 @@ AcDbArc
   0
 LINE
   5
-217
+215
 100
 AcDbEntity
   8
@@ -14239,7 +14191,7 @@ AcDbLine
   0
 ARC
   5
-218
+216
 100
 AcDbEntity
   8
@@ -14267,7 +14219,7 @@ AcDbArc
   0
 LINE
   5
-219
+217
 100
 AcDbEntity
   8
@@ -14288,6 +14240,58 @@ AcDbLine
 494
  21
 147
+  0
+ARC
+  5
+218
+100
+AcDbEntity
+  8
+3mm Acrylic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+494
+ 20
+146
+ 40
+1
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+LINE
+  5
+219
+100
+AcDbEntity
+  8
+3mm Acrylic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+495
+ 20
+145
+ 11
+495
+ 21
+146
   0
 ARC
   5
@@ -14307,15 +14311,15 @@ AcDbCircle
  10
 494
  20
-146
+145
  40
 1
 100
 AcDbArc
  50
-0
+270
  51
-90
+0
   0
 LINE
   5
@@ -14333,69 +14337,17 @@ ByLayer
 100
 AcDbLine
  10
-495
+487
  20
 145
  11
-495
+487
  21
 146
   0
-ARC
+LINE
   5
 21C
-100
-AcDbEntity
-  8
-3mm Acrylic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-494
- 20
-145
- 40
-1
-100
-AcDbArc
- 50
-270
- 51
-0
-  0
-LINE
-  5
-21D
-100
-AcDbEntity
-  8
-3mm Acrylic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-487
- 20
-145
- 11
-487
- 21
-146
-  0
-LINE
-  5
-21E
 100
 AcDbEntity
   8
@@ -14419,7 +14371,7 @@ AcDbLine
   0
 ARC
   5
-21F
+21D
 100
 AcDbEntity
   8
@@ -14444,6 +14396,102 @@ AcDbArc
 180
  51
 270
+  0
+LINE
+  5
+21E
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+484
+ 20
+169
+ 11
+490.7
+ 21
+169
+  0
+LINE
+  5
+21F
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+498
+ 20
+169
+ 11
+491.3
+ 21
+169
+  0
+LINE
+  5
+220
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+490.7
+ 20
+158
+ 11
+488
+ 21
+158
+  0
+LINE
+  5
+221
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+494
+ 20
+158
+ 11
+491.3
+ 21
+158
   0
 ENDSEC
   0
